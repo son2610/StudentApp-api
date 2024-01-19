@@ -1,0 +1,60 @@
+{
+    "students": [
+        {
+          "fullname": "Aspen Contreras234",
+          "gender": false,
+          "email": "kehu@mailinator234.com",
+          "avatarUrl": "https://picsum.photos/200",
+          "dob": "2024-01-16T07:39:29.126Z",
+          "department": {
+            "name": "CNTT",
+            "id": "1"
+          },
+          "mobile": "+1 (529) 733-120623",
+          "id": "1"
+        },
+        {
+          "fullname": "Pascale Burris",
+          "gender": false,
+          "email": "nubyryv@mailinator.com",
+          "avatarUrl": "https://picsum.photos/200",
+          "dob": "2024-01-13T07:39:39.267Z",
+          "department": {
+            "name": "Điện tử",
+            "id": "3"
+          },
+          "mobile": "+1 (193) 339-5402",
+          "id": "2"
+        }
+      ],
+      "department": [
+        {
+          "name": "CNTT",
+          "id": "1"
+        },
+        {
+          "name": "Kế Toán",
+          "id": "2"
+        },
+        {
+          "name": "Điện tử",
+          "id": "3"
+        },
+        {
+          "0": {
+            "name": "CNTT",
+            "id": "1"
+          },
+          "1": {
+            "name": "Kế Toán",
+            "id": "2"
+          },
+          "2": {
+            "name": "Điện tử",
+            "id": "3"
+          },
+          "name": "Electronics",
+          "id": "4"
+        }
+      ]
+}
